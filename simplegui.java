@@ -2,6 +2,7 @@ import javax.swing.*; //Don't forget to import this package
 import java.awt.*;
 import java.awt.event.*;
 //This is Just a comment
+//Another
 public class simplegui implements ActionListener, MouseListener {
 	JButton button;
 	public static void main(String args[])
